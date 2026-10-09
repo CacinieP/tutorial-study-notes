@@ -64,8 +64,10 @@ tutorial-study-notes/
 
 本 Skill 蒸馏自：
 
-- 语码Cace，微信公众号文章《AI-Native文科生自学计算机301408day01》：https://mp.weixin.qq.com/s/wP1Pya_0kScqMQzZZnMO3w
+- 语码Cace《AI时代，Agent加速学习实践清单》（微信公众号文章，由微信读书内容整理）：https://mp.weixin.qq.com/s/wP1Pya_0kScqMQzZZnMO3w
+  - Notion 整理页面将该文来源记为《AI-Native文科生自学计算机301408day01》（疑为微信读书收藏/系列名）；文章实际标题以公众号原文为准
 - Notion 页面《AI-Native 文科生自学计算机：Agent 加速学习实践清单》
+- 文中提到的 STORM 学习法，出处未标注；最可能对应 Stanford STORM 论文（Shao et al., NAACL 2024, arXiv:2402.14207，多视角写前调研），此对应为推断，详见 SKILL.md
 
 为方法论蒸馏与工程化改写，非原文复制。原框架为个人实践总结，无实证背书，适用边界见 SKILL.md「适用边界与诚实声明」。
 
