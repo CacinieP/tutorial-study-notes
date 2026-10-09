@@ -42,6 +42,10 @@ Phase 8  成文与终检（按模板组装 + quality_check.py）
 python scripts/quality_check.py <笔记.md>
 ```
 
+## 示例
+
+`examples/408-27kaoyan-study-note.md` —— 用 2027 考研 408 计算机学科专业基础综合大纲跑完整八步工作流产出的 sample 笔记（含五视角证据表、矛盾图、简报、同行评审、资源一周路径、五级难度地图、80/20+10次课计划），终检脚本 ALL PASS。
+
 ## 目录结构
 
 ```
@@ -50,6 +54,8 @@ tutorial-study-notes/
 ├── references/
 │   ├── prompts.md                  # 各 Phase 可直接复制的 prompt 模板
 │   └── note-template.md            # 最终笔记输出模板
+├── examples/
+│   └── 408-27kaoyan-study-note.md  # Sample：27考研408大纲笔记
 └── scripts/
     └── quality_check.py            # 笔记终检脚本（确定性检查）
 ```
